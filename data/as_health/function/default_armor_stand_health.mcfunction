@@ -1,5 +1,5 @@
 tellraw @s {"color":"yellow","text":"Default health for all existing and future armor stands changed"}
-tellraw @s {"color":"yellow","text":"Vanilla value: 20"}
+tellraw @s {"color":"yellow","text":"(Vanilla value: 20)"}
 $data merge storage aasa:default_hp {value:$(value)}
 #function as_health:default_armor_stand_health {value:<intiger>}
 
