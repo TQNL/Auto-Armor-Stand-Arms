@@ -1,0 +1,2 @@
+data merge storage aasa:settings {auto_or_trigger:"auto"}
+tellraw @s [{"color":"yellow","text":"The AASA data pack is set to the following functionality: "},{"nbt":"auto_or_trigger","storage":"aasa:settings"}]
