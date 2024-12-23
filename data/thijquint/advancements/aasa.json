@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "id": "minecraft:armor_stand"
+      "item": "minecraft:armor_stand"
     },
     "title": "Auto Armor Stand Arms",
     "description": "Armor Stand will have their arms enabled by default in your world.",

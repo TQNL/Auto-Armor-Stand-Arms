@@ -1,0 +1,1 @@
+tellraw @a {"text": "Loaded Auto Armor Stand Arms","color": "#00FF00"}
