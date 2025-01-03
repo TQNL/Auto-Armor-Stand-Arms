@@ -1,6 +1,10 @@
 {
   "pack": {
-    "pack_format": 48,
-    "description": "Armor Stand will have their arms enabled by default in your world. By ThijquintNL."
+    "pack_format": 57,
+    "description": "Armor Stand will have their arms enabled by default in your world. By ThijquintNL.",
+    "supported_formats": {
+      "min_inclusive": 57,
+      "max_inclusive": 61
+    }
   }
 }
